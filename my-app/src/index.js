@@ -10,13 +10,13 @@ import registerServiceWorker from './registerServiceWorker';
 
 // import Timeline from './components/Timeline/Timeline';
 import Container from './Container';
-import Header from './Header';
+// import Header from './Header';
 
 export const load = () => {
   console.log('hi');
 
   ReactDOM.render(<Container />, document.getElementById('demo2'));
-  ReactDOM.render(<Header />, document.getElementById('headerDemo'));
+  // ReactDOM.render(<Header />, document.getElementById('headerDemo'));
 
 };
 load();
