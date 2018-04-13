@@ -29,7 +29,7 @@ const activities = [
       name: 'Ari',
       avatar: 'http://www.croop.cl/UI/twitter/images/doug.jpg'
     },
-    comments: [{from: 'Bill', 'Hank', 'Fried Chicken'}]
+    comments: [{from: 'Bill', text: 'What???'}]
   }
 ];
 
