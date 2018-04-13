@@ -1,3 +1,6 @@
+
+
+
 .demo {
   position: relative;
 }
@@ -134,7 +137,7 @@
   z-index: 2;
   margin: 20px 30px 30px 70px;
   display: block;
-  /*border-radius: 50%;
+  border-radius: 50%;
    border: 5px solid #ecf0f1;
    box-sizing: border-box;
    position: absolute;
